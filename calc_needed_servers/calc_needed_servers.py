@@ -24,7 +24,7 @@ length = (len(entryList))
 x = 0
 # Start parsing data
 while x < length:
-    # Class entries matching range 000000 - 999999
+    # Class entries matching range 000000 - 000999
     if len(entryList[x]) <= 3:
         byCharacter = list(entryList[x])
         while len(byCharacter) <= 5:

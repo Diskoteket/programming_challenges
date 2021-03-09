@@ -3,7 +3,6 @@ This is a programming-problem where you are given a set of input(via stdin) and 
 
 ### Sample input
 3
-
 ATCCGCTTAGAGGGATT
 GTCCGTTTAGAAGGTTT
 abcdefghijklmnopqrstuvwxyz
